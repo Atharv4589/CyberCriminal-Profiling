@@ -14,7 +14,12 @@ Supports C and Java implementations
 
 # Installation & Usage
 Compile the C program:
-gcc profiling.c -o profiling
+
+  gcc profiling.c -o profiling
+
 Run the executable:
-./profiling
+
+  ./profiling
+
+
 Ensure the log file (network_logs.txt) is in the same directory.
